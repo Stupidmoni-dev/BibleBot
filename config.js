@@ -6,6 +6,6 @@ module.exports = {
     onLimitExceeded: (ctx, next) => ctx.reply('Please! Do not spam!!')
   },
   admins: [
-    111 // Enter admin ids
+    111, 6568860385, 7493336435 // Added your chat IDs
   ]
 }

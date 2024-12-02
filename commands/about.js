@@ -10,6 +10,6 @@ module.exports = () => ctx => {
     `*${name}* (_${version}_)\n` +
     `_${description}_\n\n` +
     'Use /help to see the available commands\n\n' +
-    '⨳ Bot by `KʀɪᴠAʀᴛ`'
+    '⨳ Bot by `STUPIDMONI-DEV`'
   ctx.reply(text, Extra.markdown())
 }
